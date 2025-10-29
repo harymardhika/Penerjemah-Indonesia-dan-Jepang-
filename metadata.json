@@ -1,0 +1,7 @@
+{
+  "name": "Penerjemah Suara Langsung",
+  "description": "A real-time voice translator from Indonesian to Japanese using the Gemini Live API. Speak in Indonesian and hear the Japanese translation instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
